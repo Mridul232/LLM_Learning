@@ -1,0 +1,8 @@
+# Use the original requirements.txt from the root of the project when installing dependencies.
+# This file is a placeholder to remind you to use the project's requirements.
+
+langchain
+langchain-core
+langchain-openai
+openai
+python-dotenv
